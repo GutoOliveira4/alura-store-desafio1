@@ -1,0 +1,19 @@
+📊 Resultados das Lojas
+
+Faturamento:
+Loja 1: R$ 1534509.12
+Loja 2: R$ 1488459.06
+Loja 3: R$ 1464025.03
+Loja 4: R$ 1384497.58
+
+Média de Avaliações:
+Loja 1: 3.98
+Loja 2: 4.04
+Loja 3: 4.05
+Loja 4: 4.00
+
+Frete Médio:
+Loja 1: R$ 34.69
+Loja 2: R$ 33.62
+Loja 3: R$ 33.07
+Loja 4: R$ 31.28
